@@ -1,0 +1,1 @@
+// export const Todo = mongoose.model('Todo', { name: String });
