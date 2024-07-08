@@ -13,4 +13,4 @@ const todoSchema = mongoose.Schema(
     }
 );
 
-export const Todo = mongoose.model('Todo', { name: String });
+export const Todo = mongoose.model('Todo', todoSchema);
